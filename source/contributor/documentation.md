@@ -9,13 +9,13 @@ There are many ways to get in touch with the team:
 * [#ghostbsd-dev:libera.chat](https://app.element.io/#/room/#ghostbsd-dev:libera.chat) channel on Matrix
 * #ghostbsd-dev on the Libera Chat IRC.
 
-Those three messaging platform are connected together. So whatever you use IRC, Telegram or Matrix you will be connected to all the messaging platform.
+Those three messaging platform are connected together. So whatever you use IRC, Telegram or Matrix you will be connected to all the messaging platforms.
 
 ## Getting the resources
 
-In order to document GhostBSD projects, you will want to run a [recent GhostBSD build](https://www.ghostbsd.org/download#latest_builds), and to document third-party projects, you will also need a recent version of that program. We are use [Sphinx](https://www.sphinx-doc.org) with [MyST](https://myst-parser.readthedocs.io) to makes it easy to create our Documentation Hub. Any one that wants to help should start to be familiar with [Git](getting-started.md#knowing-how-to-use-git), [GitHub](getting-started.md#knowing-how-to-use-github) and [MyST Markdown syntax](https://myst-parser.readthedocs.io/en/latest/intro.html).
+In order to document GhostBSD projects, you will want to run a [recent GhostBSD build](https://www.ghostbsd.org/download#latest_builds), and to document third-party projects, you will also need a recent version of that program. We use [Sphinx](https://www.sphinx-doc.org) with [MyST](https://myst-parser.readthedocs.io) to make it easy to create our Documentation Hub. Any one who wants to help should start to be familiar with [Git](getting-started.md#knowing-how-to-use-git), [GitHub](getting-started.md#knowing-how-to-use-github) and [MyST Markdown syntax](https://myst-parser.readthedocs.io/en/latest/intro.html).
 
-The instructions for install and setup can be found on the  [GhostBSD Documentation GitHub](https://github.com/ghostbsd/documentation#local-development-server) repository.
+The instructions for installation and setup can be found on the  [GhostBSD Documentation GitHub](https://github.com/ghostbsd/documentation#local-development-server) repository.
 
 ## Tasks
 
